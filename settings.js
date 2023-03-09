@@ -15,7 +15,7 @@ global.DocumentTitle = "MASTER⚔️SRJ"
 
 global.ownername = "SRΨTJ"   // Owner name //        
 global.ownernumber = ['918281358607'] 
-global.socialm = "𝗜𝗻𝘀𝘁𝗮 :"_soory4__" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
+global.socialm = "𝗜𝗻𝘀𝘁𝗮 :_soory4__" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
 global.continent = "Asia" // your continent name 
 global.region = "India" // your country name
