@@ -43,7 +43,7 @@ footer2 = `𝘬ꪖ𝘳ꪀꪖꪀㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
 
 //--------Left message "Nikal msg"--------\\
 nikalmsg1 = '😹The only culture you possess is bacteria.😚' 
-nikalmsg2 = '😹If I wanted to hear an asshole talk, I would've farted. 😂.'
+nikalmsg2 = '😹If I wanted to hear an asshole talk, I would have farted. 😂.'
 
 //--------Random Tagall msg--------\\
 tag1 = '𝘏𝘦𝘺 𝘦𝘷𝘦𝘳𝘺𝘣𝘰𝘥𝘺😚.' 
